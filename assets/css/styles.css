@@ -193,6 +193,7 @@ img {
 }
 .home__title-color {
   color: var(--first-color);
+  font-size: 50px;
 }
 .home__social {
   display: flex;
